@@ -1,0 +1,95 @@
+nav ul{
+    list-style: none;
+    font-size: 16px;
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.985);
+}
+nav li{
+    display: inline;
+    margin-right: 12px;
+
+
+}
+.header{
+    background-image: url(../image/Group\ 1000007687.png);
+    background-repeat: no-repeat;
+    background-position:top right;
+    background-size:799.085px,1085.873px ;
+}
+.header .background-inage{
+    width: 1085.873px;
+height: 799.057px;
+transform: rotate(-26.651deg);
+flex-shrink: 0;
+
+}
+
+nav{
+    display:flex ;
+    justify-content:space-around ;
+  
+}
+nav{
+    align-items: center;
+}
+.ring{
+    position:relative ;
+    top: -8px;
+    left: 25px;
+}
+.nav-button{
+    padding: 13px 34px;
+    
+    border: 1px solid #30AC52;
+    background: #FFF;}
+/* Organic section style */
+.organic-protfolio{
+    margin-top: 200px;
+    margin-left:190px ;
+    margin-right: 933px;
+}
+.organic-title{
+    font-size:16px ;
+    font-weight: 500;
+    color:#30AC52 ;
+    
+    
+}
+.organic-type{
+    font-size: 45px;
+    font-weight:900;
+    font-family:Libre Bodoni;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.organic-discription{
+    font-size: 16px;
+    color: #0E243E;
+    margin-bottom: 30px;
+}
+.organic-button{
+    background-color: #30AC52;
+    padding: 18px 44px; 
+    border-radius: 5px;
+    border: none;
+    }
+    .oragnic .contact-button{
+    margin-left: 20px;
+    }
+.contact-button{
+    padding: 18px 40px 18px 41px;
+    background-color: #FFF;
+    border: 1px solid #30AC52;
+    border-radius: 5px;
+    margin-bottom: 70px;
+}
+.activate ,hr{
+    display: flex;
+    border-radius: 5px;
+    border: 1px solid #D7F4DF
+}
+.active{
+    padding: 5px 50px;
+    background: #FFF;
+}
+
